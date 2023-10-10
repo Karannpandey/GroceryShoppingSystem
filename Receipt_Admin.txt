@@ -1,0 +1,12 @@
+New product with product id 0 added successfully
+Price of product with product id 0 modified from 1200 to 1300 
+Quantity of product with product id 0 modified from 10 to 15 
+New product with product id 1 added successfully
+New product with product id 2 added successfully
+New product with product id 3 added successfully
+Product with product id 0 deleted succesfully
+Current Inventory:
+ProductID	ProductName	Quantity	Price
+1	pen	30	10
+2	hat	10	1000
+3	mug	22	30
